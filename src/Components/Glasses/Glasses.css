@@ -1,0 +1,27 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.glass-bg {
+    background-image: url(../../../public/img/background.jpg);
+    height: 100vh;
+    background-repeat: none;
+    background-size: cover;
+}
+
+.glass_model {
+    width: 300px;
+}
+
+.glass_item {
+    width: 100px;
+}
+
+.item_bg {
+    background-color: white;
+    border-style:dashed;
+    border-width: 3px;
+    border-color: red;
+}
