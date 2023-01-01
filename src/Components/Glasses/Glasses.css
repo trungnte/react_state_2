@@ -25,3 +25,18 @@ html, body {
     border-width: 3px;
     border-color: red;
 }
+
+
+.row .col-6 .card {
+    margin: auto;
+}
+
+.vglasses__image{
+    /* position: absolute; */
+    top: 25%;
+    /* left: 25%; */
+    width: 50%;
+    /* height: 85px; */
+    opacity: 0.9;
+}
+
